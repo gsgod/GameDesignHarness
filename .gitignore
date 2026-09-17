@@ -1,0 +1,5 @@
+node_modules/
+**/.godot/
+**/*.uid
+*.log
+.DS_Store

@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "version": "0.1.0",
+  "files": {
+    "adapters/godot/check.gd": "7fb6b316ae117b267acea1f18efff9708ee881a32244a2546ca82fd8d746eb3e",
+    "adapters/godot/project.godot": "bf0acc6fa72c9808a31809df6ba255014c0f4b98dcb6df50140ebaa4e76ba7c2",
+    "adapters/imagemagick.mjs": "98104c8c53b2ef358e789946c794315b846e2d0be36a94d82a8dcd1b144fc7fa",
+    "bin/design.mjs": "42c2ecf2c3a7504f947e710205f7344a7a3515710e36853d4db5a6a33c5a7435",
+    "core/contract.mjs": "c5804aa2ac4da4241372311c205167838cad7fe96893b0b0bd7ddb3c261224df",
+    "core/files.mjs": "9e02a5c66142500bf803f36992c218eb5bfa89f5ad89b45965cbcb8596820f30",
+    "core/pipeline.mjs": "c698de7a429c0d86363e918dd01353a92178dc41895ef0ca05523f922dc50b51",
+    "package.json": "fc172668c85f827510a52dfdb72d5245876f05d77733a1044f281f7f811f3a97"
+  }
+}

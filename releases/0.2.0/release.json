@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "version": "0.2.0",
+  "files": {
+    "adapters/godot/check.gd": "7fb6b316ae117b267acea1f18efff9708ee881a32244a2546ca82fd8d746eb3e",
+    "adapters/godot/project.godot": "bf0acc6fa72c9808a31809df6ba255014c0f4b98dcb6df50140ebaa4e76ba7c2",
+    "adapters/imagemagick.mjs": "98104c8c53b2ef358e789946c794315b846e2d0be36a94d82a8dcd1b144fc7fa",
+    "bin/design.mjs": "888a9ebbf2a6f8636795daef7321166a6c7c4f66431d556c4a75a6b0b5afa119",
+    "core/concepts.mjs": "fbe17b329cf05eedb81fc0c3a0a606e1206236b3e6ae7b8ca109f4b963dc1fb7",
+    "core/contract.mjs": "c5804aa2ac4da4241372311c205167838cad7fe96893b0b0bd7ddb3c261224df",
+    "core/files.mjs": "9e02a5c66142500bf803f36992c218eb5bfa89f5ad89b45965cbcb8596820f30",
+    "core/pipeline.mjs": "61ea439aa4bb4bf8b985732bc09d1d72f9052d9734ee6caaccd81472c0a569e3",
+    "package.json": "25b8fa19c5bc764d039ddabfa90864c4db00073ab905b2066bced820be7828b9"
+  }
+}
